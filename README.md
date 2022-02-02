@@ -1,7 +1,7 @@
 # Leetcode
 Leetcode questions with solution
 
-Github and Intellij Setup
+##Github and Intellij Setup
 1. Download and install Intellij：
 
    http://www.520rj.com/xiazai/jetbrains-eval-reset.html
@@ -14,3 +14,7 @@ Github and Intellij Setup
 5. import Github repository
 
    *File -> Open*
+
+
+##Leetcode tool setup
+https://github.com/shuzijun/leetcode-editor/blob/master/README.md
