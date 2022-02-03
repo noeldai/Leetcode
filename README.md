@@ -14,6 +14,7 @@ Leetcode questions with solution
  |200|[Number of Islands][200]| |Medium|
 
 # Tree
+[105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [101]: https://leetcode.com/problems/symmetric-tree/
 [100]: https://leetcode.com/problems/same-tree/
@@ -23,6 +24,7 @@ Leetcode questions with solution
 
 | #   | Title                               | Solutions                                   | Difficulty |
 |-----|-------------------------------------|---------------------------------------------|------|
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal][105]   | [Solutions](../Leetcode/src/main/_105.java)  | Medium |
 | 104 | [Maximum Depth of Binary Tree][104] | [Solutions](../Leetcode/src/main/_104.java) | Easy | 
 | 101 | [Symmetric Tree][101]               | [Solutions](../Leetcode/src/main/_101.java) | Easy | 
 | 100 | [Same Tree][100]                    | [Solutions](../Leetcode/src/main/_100.java) | Easy |
