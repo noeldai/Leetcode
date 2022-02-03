@@ -14,12 +14,13 @@ Leetcode questions with solution
  |200|[Number of Islands][200]| |Medium|
 
 # Tree
+[95]: https://leetcode.com/problems/unique-binary-search-trees-ii/
 [96]: https://leetcode.com/problems/unique-binary-search-trees/
 
-| #   | Title | Solutions | Difficulty |
-|-----|-------|-----------|------------|
-| 96  |[Unique Binary Search Trees][96]|[Solutions](../Leetcode/src/main/_96.java)|Medium|
-
+| #  | Title                            | Solutions                                  | Difficulty |
+|----|----------------------------------|--------------------------------------------|------------|
+| 96 | [Unique Binary Search Trees][96] | [Solutions](../Leetcode/src/main/_96.java) |Medium|
+ | 95 | [Unique Binary Search Trees II][95]| [Solutions](../Leetcode/src/main/_95.java) |Medium|
 # Environment Setup
 ##Github and Intellij Setup
 1. Download and install Intellij：
