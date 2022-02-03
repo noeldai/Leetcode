@@ -14,17 +14,19 @@ Leetcode questions with solution
  |200|[Number of Islands][200]| |Medium|
 
 # Tree
+[101]: https://leetcode.com/problems/symmetric-tree/
 [100]: https://leetcode.com/problems/same-tree/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
 [96]: https://leetcode.com/problems/unique-binary-search-trees/
 [95]: https://leetcode.com/problems/unique-binary-search-trees-ii/
 
-| #  | Title                            | Solutions                                   | Difficulty |
-|----|----------------------------------|---------------------------------------------|------|
- | 100 | [Same Tree][100] | [Solutions](../Leetcode/src/main/_100.java) | Easy |
-| 98 | [Validate Binary Search Tree][98] | [Solutions](../Leetcode/src/main/_98.java)  | Medium |
- | 96 | [Unique Binary Search Trees][96] | [Solutions](../Leetcode/src/main/_96.java)  | Medium |
- | 95 | [Unique Binary Search Trees II][95] | [Solutions](../Leetcode/src/main/_95.java)  | Medium |
+| #   | Title                               | Solutions                                   | Difficulty |
+|-----|-------------------------------------|---------------------------------------------|------|
+| 101 | [Symmetric Tree][101]               | [Solutions](../Leetcode/src/main/_101.java) | Easy | 
+| 100 | [Same Tree][100]                    | [Solutions](../Leetcode/src/main/_100.java) | Easy |
+| 98  | [Validate Binary Search Tree][98]   | [Solutions](../Leetcode/src/main/_98.java)  | Medium |
+ | 96  | [Unique Binary Search Trees][96]    | [Solutions](../Leetcode/src/main/_96.java)  | Medium |
+ | 95  | [Unique Binary Search Trees II][95] | [Solutions](../Leetcode/src/main/_95.java)  | Medium |
 
 # Environment Setup
 ##Github and Intellij Setup
