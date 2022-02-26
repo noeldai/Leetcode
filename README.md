@@ -3,38 +3,18 @@ Leetcode questions with solution
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# Series Problem
-| # | Title | Solutions | Difficulty |
-|---|-------|-----------|------------|
-
-# DFS
-[200]: https://leetcode.com/problems/number-of-islands/
-| # | Title | Solutions | Difficulty |
-|---|-------|-----------|------------|
- |200|[Number of Islands][200]| |Medium|
+## DFS
 
 # Tree
-[108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-[106]: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
-[105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-[104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
-[101]: https://leetcode.com/problems/symmetric-tree/
-[100]: https://leetcode.com/problems/same-tree/
-[98]: https://leetcode.com/problems/validate-binary-search-tree/
-[96]: https://leetcode.com/problems/unique-binary-search-trees/
-[95]: https://leetcode.com/problems/unique-binary-search-trees-ii/
-
-| #   | Title                                                             | Solutions                                   | Difficulty |
-|-----|-------------------------------------------------------------------|---------------------------------------------|------|
-| 108 | [Convert Sorted Array to Binary Search Tree][108]                 | [Solutions](../Leetcode/src/main/_108.java) | Easy | 
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal][106] | [Solutions](../Leetcode/src/main/_106.java) | Medium |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal][105]  | [Solutions](../Leetcode/src/main/_105.java) | Medium |
-| 104 | [Maximum Depth of Binary Tree][104]                               | [Solutions](../Leetcode/src/main/_104.java) | Easy | 
-| 101 | [Symmetric Tree][101]                                             | [Solutions](../Leetcode/src/main/_101.java) | Easy | 
-| 100 | [Same Tree][100]                                                  | [Solutions](../Leetcode/src/main/_100.java) | Easy |
-| 98  | [Validate Binary Search Tree][98]                                 | [Solutions](../Leetcode/src/main/_98.java)  | Medium |
- | 96  | [Unique Binary Search Trees][96]                                  | [Solutions](../Leetcode/src/main/_96.java)  | Medium |
- | 95  | [Unique Binary Search Trees II][95]                               | [Solutions](../Leetcode/src/main/_95.java)  | Medium |
+[108.Convert Sorted Array to Binary Search Tree](../Leetcode/Tree/_108.java)   
+[106.Construct Binary Tree from Inorder and Postorder Traversal](../Leetcode/Tree/_106.java)   
+[105.Construct Binary Tree from Preorder and Inorder Traversal](../Leetcode/Tree/_105.java)   
+[104.Maximum Depth of Binary Tree](../Leetcode/Tree/_104.java)   
+[101.Symmetric Tree](../Leetcode/Tree/_101.java)   
+[100.Same Tree](../Leetcode/Tree/_100.java)   
+[98.Validate Binary Search Tree](../Leetcode/Tree/_98.java)   
+[96.Unique Binary Search Trees](../Leetcode/Tree/_96.java)   
+[95.Unique Binary Search Trees II](../Leetcode/Tree/_95.java)   
 
 # Environment Setup
 ##Github and Intellij Setup
