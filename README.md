@@ -7,17 +7,20 @@ Leetcode questions with solution
 https://github.com/wisdompeak/LeetCode
 
 ## DFS
+[37. Sudoku Solver](../Leetcode/DFS/_37.java)  
+[40. Combination Sum II](../Leetcode/DFS/_40.java)   
+
 
 ## Tree
-[108.Convert Sorted Array to Binary Search Tree](../Leetcode/Tree/_108.java)   
-[106.Construct Binary Tree from Inorder and Postorder Traversal](../Leetcode/Tree/_106.java)   
-[105.Construct Binary Tree from Preorder and Inorder Traversal](../Leetcode/Tree/_105.java)   
-[104.Maximum Depth of Binary Tree](../Leetcode/Tree/_104.java)   
-[101.Symmetric Tree](../Leetcode/Tree/_101.java)   
-[100.Same Tree](../Leetcode/Tree/_100.java)   
-[98.Validate Binary Search Tree](../Leetcode/Tree/_98.java)   
-[96.Unique Binary Search Trees](../Leetcode/Tree/_96.java)   
-[95.Unique Binary Search Trees II](../Leetcode/Tree/_95.java)   
+[108. Convert Sorted Array to Binary Search Tree](../Leetcode/Tree/_108.java)   
+[106. Construct Binary Tree from Inorder and Postorder Traversal](../Leetcode/Tree/_106.java)   
+[105. Construct Binary Tree from Preorder and Inorder Traversal](../Leetcode/Tree/_105.java)   
+[104. Maximum Depth of Binary Tree](../Leetcode/Tree/_104.java)   
+[101. Symmetric Tree](../Leetcode/Tree/_101.java)   
+[100. Same Tree](../Leetcode/Tree/_100.java)   
+[98. Validate Binary Search Tree](../Leetcode/Tree/_98.java)   
+[96. Unique Binary Search Trees](../Leetcode/Tree/_96.java)   
+[95. Unique Binary Search Trees II](../Leetcode/Tree/_95.java)   
 
 # Environment Setup
 ##Github and Intellij Setup
