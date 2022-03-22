@@ -22,6 +22,10 @@ https://github.com/wisdompeak/LeetCode
 [96. Unique Binary Search Trees](../Leetcode/Tree/_96.java)   
 [95. Unique Binary Search Trees II](../Leetcode/Tree/_95.java)   
 
+##Stack
+* ``parse expression``  
+[224. Basic Calculator](../Leetcode/Stack/_224.java)
+
 # Environment Setup
 ##Github and Intellij Setup
 1. Download and install Intellij：
