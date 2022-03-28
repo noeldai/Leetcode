@@ -9,6 +9,7 @@ https://github.com/wisdompeak/LeetCode
 ## DFS
 [37. Sudoku Solver](../Leetcode/DFS/_37.java)  
 [40. Combination Sum II](../Leetcode/DFS/_40.java)   
+[489. Robot Room Cleaner](../Leetcode/DFS/_489.java)  
 
 
 ## Tree
@@ -24,7 +25,12 @@ https://github.com/wisdompeak/LeetCode
 
 ##Stack
 * ``parse expression``  
-[224. Basic Calculator](../Leetcode/Stack/_224.java)
+[224. Basic Calculator](../Leetcode/Stack/_224.java)  
+[227. Basic Calculator II](../Leetcode/Stack/_227.java)  
+[772. Basic Calculator III](../Leetcode/Stack/_772.java)  
+
+##Math
+[2128. Remove All Ones With Row and Column Flips](../Leetcode/Math/_2128.java)
 
 # Environment Setup
 ##Github and Intellij Setup
