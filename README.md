@@ -24,14 +24,18 @@ https://github.com/wisdompeak/LeetCode
 [96. Unique Binary Search Trees](../Leetcode/Tree/_96.java)   
 [95. Unique Binary Search Trees II](../Leetcode/Tree/_95.java)   
 
-##Stack
+## Stack
 * ``parse expression``  
 [224. Basic Calculator](../Leetcode/Stack/_224.java)  
 [227. Basic Calculator II](../Leetcode/Stack/_227.java)  
 [772. Basic Calculator III](../Leetcode/Stack/_772.java)  
 
-##Math
-[2128. Remove All Ones With Row and Column Flips](../Leetcode/Math/_2128.java)
+## Others
+* ``Math``  
+[2128. Remove All Ones With Row and Column Flips](Others/_2128.java)  
+* ``Interval 扫描线``  
+[56. Merge Intervals](Others/_2128.java)  
+
 
 # Environment Setup
 ##Github and Intellij Setup
