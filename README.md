@@ -38,7 +38,7 @@ https://github.com/wisdompeak/LeetCode
 [57. Insert Interval]  
 [759. Employee Free Time]  
 [252. Meeting Rooms](Others/_252.java)  
-[253. Meeting Rooms II]  
+[253. Meeting Rooms II](Others/_253.java)  
 [1094. Car Pooling]  
 
 
