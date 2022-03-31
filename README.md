@@ -8,10 +8,12 @@ https://github.com/wisdompeak/LeetCode
 
 ## DFS
 [37. Sudoku Solver](../Leetcode/DFS/_37.java)  
-[40. Combination Sum II](../Leetcode/DFS/_40.java)   
-[200. Number of Islands](../Leetcode/DFS/_200.java)
-[489. Robot Room Cleaner](../Leetcode/DFS/_489.java)  
+[40. Combination Sum II](../Leetcode/DFS/_40.java)
+[489. Robot Room Cleaner](../Leetcode/DFS/_489.java)
 
+* ``Series - Number of Islands``  
+[200. Number of Islands](../Leetcode/DFS/_200.java)  
+[695. Max Area of Island](../Leetcode/DFS/_695.java)  
 
 ## Tree
 [108. Convert Sorted Array to Binary Search Tree](../Leetcode/Tree/_108.java)   
