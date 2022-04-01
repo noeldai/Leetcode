@@ -33,6 +33,7 @@ https://github.com/wisdompeak/LeetCode
 [772. Basic Calculator III](../Leetcode/Stack/_772.java)  
 
 ## Others
+[794. Valid Tic-Tac-Toe State](Others/_794.java)  
 * ``Math``  
 [2128. Remove All Ones With Row and Column Flips](Others/_2128.java)  
 * ``Interval 扫描线``  
