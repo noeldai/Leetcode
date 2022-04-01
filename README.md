@@ -34,6 +34,8 @@ https://github.com/wisdompeak/LeetCode
 
 ## Others
 [794. Valid Tic-Tac-Toe State](Others/_794.java)  
+[849. Maximize Distance to Closest Person](Others/_849.java)  
+
 * ``Math``  
 [2128. Remove All Ones With Row and Column Flips](Others/_2128.java)  
 * ``Interval 扫描线``  
