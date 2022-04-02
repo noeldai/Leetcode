@@ -27,7 +27,10 @@ https://github.com/wisdompeak/LeetCode
 [108. Convert Sorted Array to Binary Search Tree](Tree/_108.java)  
 [1145. Binary Tree Coloring Game](Tree/_1145.java)  
 
-## Two Pointers
+## Two Pointers  
+[125. Valid Palindrome](TwoPointers/_125.java)  
+[680. Valid Palindrome II](TwoPointers/_680.java)  
+
 * ``Interval 扫描线``  
   [56. Merge Intervals](TwoPointers/_56.java)  
   [57. Insert Interval]  
