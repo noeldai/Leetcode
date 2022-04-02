@@ -1,8 +1,10 @@
 /**
  * https://leetcode.com/problems/maximum-number-of-visible-points/
  * <p>
- * 本质是Sliding Window，比较难得是用数学的方法找到这个Window 在这个题目中Window是每个点到x轴的夹角关系
- * <p>
+ * 本质是Sliding Window，比较难得是用数学的方法找到这个Window
+ * 在这个题目中Window是每个点到x轴的夹角关系, 通过数学方式算atan
+ * 注意angle和rad的转换：1°=π/180 rad
+ * 
  * Time: O(nlogn + 2n) = O(nlogn)
  * Space: O(n)
  */
