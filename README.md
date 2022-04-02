@@ -27,6 +27,18 @@ https://github.com/wisdompeak/LeetCode
 [108. Convert Sorted Array to Binary Search Tree](Tree/_108.java)  
 [1145. Binary Tree Coloring Game](Tree/_1145.java)  
 
+## Two Pointers
+* ``Interval 扫描线``  
+  [56. Merge Intervals](TwoPointers/_56.java)  
+  [57. Insert Interval]  
+  [759. Employee Free Time]  
+  [252. Meeting Rooms](TwoPointers/_252.java)  
+  [253. Meeting Rooms II](TwoPointers/_253.java)  
+  [1094. Car Pooling]  
+
+* ``Sliding Window``  
+[1610. Maximum Number of Visible Points](TwoPointers/_1610.java)  
+
 ## Stack
 * ``parse expression``  
 [224. Basic Calculator](Stack/_224.java)  
@@ -39,10 +51,3 @@ https://github.com/wisdompeak/LeetCode
 
 * ``Math``  
 [2128. Remove All Ones With Row and Column Flips](Others/_2128.java)  
-* ``Interval 扫描线``  
-[56. Merge Intervals](Others/_2128.java)  
-[57. Insert Interval]  
-[759. Employee Free Time]  
-[252. Meeting Rooms](Others/_252.java)  
-[253. Meeting Rooms II](Others/_253.java)  
-[1094. Car Pooling]
