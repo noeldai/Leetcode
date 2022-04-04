@@ -28,6 +28,7 @@ https://github.com/wisdompeak/LeetCode
 [1145. Binary Tree Coloring Game](Tree/_1145.java)  
 
 ## Two Pointers  
+[31. Next Permutation](TwoPointers/_31.java)  
 [125. Valid Palindrome](TwoPointers/_125.java)  
 [680. Valid Palindrome II](TwoPointers/_680.java)  
 
