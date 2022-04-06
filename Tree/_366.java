@@ -9,7 +9,7 @@
  * Space: O(1)
  *
  *Followup:
- * 1. 必须逐层去掉叶节点
+ * 1. 必须逐层去掉叶节点 -> node.left = node.right = null
  * 2. we have given the Map =[2=[z,b] , 1=[e] ] with height = [leaf values] .
  * Construct the tree in such a way lower height leaf should come on the left hand side and if 2 leaves has same height ,
  * than alphabetically sorted value should come on left hand size . All other values ( non leaf values) , we can put *.
@@ -43,6 +43,7 @@ class Solution {
     }
 
     result.get(curHeight).add(node.val);
+    node.left = node.right = null; //add this line if we are required remove leaves
 
     return curHeight;
   }
