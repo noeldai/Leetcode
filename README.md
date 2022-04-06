@@ -25,6 +25,7 @@ https://github.com/wisdompeak/LeetCode
 [105. Construct Binary Tree from Preorder and Inorder Traversal](Tree/_105.java)  
 [106. Construct Binary Tree from Inorder and Postorder Traversal](Tree/_106.java)  
 [108. Convert Sorted Array to Binary Search Tree](Tree/_108.java)  
+[366. Find Leaves of Binary Tree](Tree/_366.java)  
 [1145. Binary Tree Coloring Game](Tree/_1145.java)  
 
 ## Two Pointers  
