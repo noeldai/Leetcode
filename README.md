@@ -7,7 +7,11 @@ Leetcode questions with solution
 https://github.com/wisdompeak/LeetCode
 
 ## BFS
-[102. Binary Tree Level Order Traversal](BFS/_102.java)
+[102. Binary Tree Level Order Traversal](BFS/_102.java)  
+[103. Binary Tree Zigzag Level Order Traversal](BFS/_103.java)  
+[107. Binary Tree Level Order Traversal II](BFS/_107.java)  
+[116. Populating Next Right Pointers in Each Node](BFS/_116.java)  
+[117. Populating Next Right Pointers in Each Node II](BFS/_117.java)
 
 ## DFS
 [37. Sudoku Solver](DFS/_37.java)  
