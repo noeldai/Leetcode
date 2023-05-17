@@ -15,8 +15,10 @@ https://github.com/wisdompeak/LeetCode
 [130. Surrounded Regions](BFS/_130.java)  
 
 ## DFS
+[22. Generate Parentheses](DFS/_22.java)  
 [37. Sudoku Solver](DFS/_37.java)  
-[40. Combination Sum II](DFS/_40.java)
+[39. Combination Sum](DFS/_39.java)  
+[40. Combination Sum II](DFS/_40.java)  
 [489. Robot Room Cleaner](DFS/_489.java)
 
 * ``Series - Number of Islands``  
