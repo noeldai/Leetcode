@@ -20,6 +20,8 @@ https://github.com/wisdompeak/LeetCode
 [39. Combination Sum](DFS/_39.java)  
 [40. Combination Sum II](DFS/_40.java)  
 [79. Word Search](DFS/_79.java)  
+[93. Restore IP Addresses](DFS/_93.java)  
+[216. Combination Sum III](DFS/_216.java)    
 [489. Robot Room Cleaner](DFS/_489.java)
 
 * ``Series - Number of Islands``  
